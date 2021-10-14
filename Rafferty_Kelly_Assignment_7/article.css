@@ -107,4 +107,8 @@ img {
   header {
     line-height: 40px;
   }
+
+  img {
+    width: 100%;
+  }
 }
