@@ -55,7 +55,7 @@ iframe {
 
 img {
   margin: 1%;
-  size: 100%;
+  width: 100%;
 }
 
 @media all and (max-width: 580px) {
@@ -81,6 +81,10 @@ img {
 
   li a {
     font-size: 12px;
+  }
+
+  img {
+    width: 100%;
   }
 }
 
